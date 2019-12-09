@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/matt-diehl/YAPL.git"
+    "url": "https://github.com/Lohdro/YAPL.git"
   },
   "keywords": [
     "style",
@@ -17,12 +17,12 @@
     "library",
     "YAPL"
   ],
-  "author": "info@portstreetdesign.com (http://portstreetdesign.com/)",
+  "author": "jake.borst@berndtgroup.net",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/matt-diehl/YAPL/issues"
+    "url": "https://github.com/Lohdro/YAPL/issues"
   },
-  "homepage": "https://github.com/matt-diehl/YAPL",
+  "homepage": "https://github.com/Lohdro/YAPL",
   "dependencies": {
     "async": "^2.6.0",
     "cheerio": "~1.0.0-rc.2",
